@@ -1,0 +1,86 @@
+/*CSS reset settings here*/
+#wrapper{
+    width: 950px;
+    padding:40px;
+    background-color:royalblue;
+    margin:0px auto;
+}
+#header{
+    min-height: 150px;
+    width:500;
+    background-color: red;
+    margin:10px auto;
+    border-radius: 25px;
+    display:vertical-align;
+   }
+   #navigation{
+    height:20px;
+    width:200px;
+    background-color:rgb(95, 160, 154);
+    margin:5px;
+    
+    display:inline-block;
+    border-radius:10px;
+    display:vertical-align;
+   }li{
+     color:lightseagreen;
+   }
+   a{color:lightseagreen;
+  }
+  span{
+    color:lightseagreen;
+   }
+  
+   
+  
+   #main_content{
+    min-height:350px;
+    width: 600px;
+    background-color:black;
+    padding: 185px 40px 40px 40px;
+    border-radius: 25px; 
+    display:inline-block;
+   }
+   a{
+     color:lightseagreen;
+   }
+   span{
+     color:lightseagreen
+   }
+   p{color:white;
+   }
+   li{
+     color:white;
+   }
+   .change
+   {
+     color:rgb(0, 47, 255);
+   }
+   #advertisement{
+    min-height: 100px;
+    width: 900px;
+    background-color:gray;
+    margin:10px;
+    border-radius: 25px; 
+    display:inline-block;
+   }
+
+   p {
+    color:white;
+  }
+  a {
+    color:lightseagreen;
+  }
+  span {
+    color:lightseagreen;
+  }
+
+  li{
+    padding-bottom: 20px;
+
+  }
+  .class
+  {
+
+  }
+   
